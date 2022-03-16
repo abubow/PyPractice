@@ -1,0 +1,2 @@
+# PyPractice
+A python practice repository meant to hold the solutions to all basic programming problems from different sources including books and lectures. Feel free to use the md files to look at problems only and if you get stuck, you can look at the solutions. Keep in mind that I am learning as I am solving these problems myself. So, the solutions may not be the best possible solution out there but it is, probably, at least one way of solving the problem.
